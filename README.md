@@ -7,20 +7,6 @@ Overview
 This project was completed as part of the course Software Support for Project Management (Grade: 10).
 It focuses on planning and tracking the development of a new product using Microsoft Project. 
 
-The project is based on the development of a new product concept, where the full project lifecycle was simulated, including planning, scheduling, resource allocation, and cost estimation.
-
-Key project elements include:
-
-Definition of project scope and objectives
-
-Identification of stakeholders
-
-Work breakdown structure (WBS) creation
-
-Task scheduling and dependency mapping
-
-Resource and cost planning
-
 The main objective was to demonstrate project planning, scheduling, and progress tracking techniques used in real project environments.
 
 The repository contains two versions of the project file:
