@@ -14,9 +14,13 @@ The project is based on the development of a new product concept, where the full
 Key project elements include:
 
 Definition of project scope and objectives
+
 Identification of stakeholders
+
 Work breakdown structure (WBS) creation
+
 Task scheduling and dependency mapping
+
 Resource and cost planning
 
 The main objective was to demonstrate project planning, scheduling, and progress tracking techniques used in real project environments.
