@@ -37,6 +37,7 @@ Project Documentation Structure
 The project is documented in a structured report (Word document) consisting of two main parts:
 
 1. Project Analysis & Planning Section
+2. 
 This section includes the theoretical and planning components of the project:
 
 Company description and problem definition
@@ -49,6 +50,7 @@ Change and data management approach
 Sustainability and project dependencies
 
 2. Project Visualization & Reporting Section
+3. 
 This section includes MS Project-generated outputs used to support and validate the planning process:
 
 Gantt Chart (project timeline, tasks, and dependencies)
