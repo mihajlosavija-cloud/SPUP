@@ -44,7 +44,7 @@ Schedule and key milestones
 Change and data management approach
 Sustainability and project dependencies
 
-3. Project Visualization & Reporting Section
+2. Project Visualization & Reporting Section
 This section includes MS Project-generated outputs used to support and validate the planning process:
 
 Gantt Chart (project timeline, tasks, and dependencies)
