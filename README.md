@@ -34,6 +34,7 @@ The project is documented in a structured report (Word document) consisting of t
 
 1. Project Analysis & Planning Section
 This section includes the theoretical and planning components of the project:
+
 Company description and problem definition
 Project scope (in/out of scope)
 Stakeholder and user needs analysis
@@ -43,7 +44,7 @@ Schedule and key milestones
 Change and data management approach
 Sustainability and project dependencies
 
-2. Project Visualization & Reporting Section
+3. Project Visualization & Reporting Section
 This section includes MS Project-generated outputs used to support and validate the planning process:
 
 Gantt Chart (project timeline, tasks, and dependencies)
