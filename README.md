@@ -1,12 +1,10 @@
 # SPUP
 
-Project: New Product Development – Project Planning & Tracking (MS Project & Jira)
-
-Grade: 10
+Project: New Product Development – Project Planning & Tracking (MS Project)
 
 Overview
 
-This project was completed as part of the course Software Support for Project Management.
+This project was completed as part of the course Software Support for Project Management (Grade: 10).
 It focuses on planning and tracking the development of a new product using Microsoft Project. 
 
 The project is based on the development of a new product concept, where the full project lifecycle was simulated, including planning, scheduling, resource allocation, and cost estimation.
